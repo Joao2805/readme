@@ -1,8 +1,8 @@
 Olá, sou o João Camilo. Seja bem vindo ao meu github.  👋
 
 
-- 🔭 Atualmente, estou trabalhando com Sistemas de Execução de Manufatura, com enfâse no desenvolvimento de novas soluções técnicas com ênfase na indústria 4.0.
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos.
+- 🔭 Atuo na área da Tecnologia da Informação, como Analista e Desenvolvedor SQL Júnior.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos.
 - 📫 Contate-me no email: joao2015camilo@gmail.com
 
 <div align="left">
